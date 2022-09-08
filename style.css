@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    background: #f5f9fa;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+h2 {
+    font-size:50px;
+    color: blue;
+    margin-bottom: 0px;
+}
+
+button {
+    background-color: yellow;
+    font-size: 50px;
+    padding: 15px;
+    border-radius: 12px;
+    cursor: pointer;
+    margin-bottom: 0px;
+}
+
+p {
+    font-size: 70px;
+    color: blueviolet;
+}
+
+.output {
+    font-size: 50px;
+    color: blueviolet;
+}
